@@ -1,0 +1,17 @@
+@media (max-width: 368px) {
+    .copyright .container p:last-child {
+        display: none;
+    }
+
+    .footer .container-right .form-action  {
+        width: 70%;
+    }
+
+    .footer .container-left .about-us p:nth-child(2) {
+        width: 80%;
+    }
+
+    .footer .container-left .from-blog .from-text {
+        width: 80%;
+    }
+}
